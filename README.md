@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Dhanraj</h1>
-<h3 align="center">A passionate full stack developer from India expertising in MERN stack web development,</h3>
+<h3 align="center">A passionate full stack developer from India expertising in MERN stack web development.</h3>
 
 | <img src="https://komarev.com/ghpvc/?username=aditya2z&label=Profile%20views&color=0e75b6&style=flat" alt="aditya2z" /> | <a href="https://github.com/aditya2z" target="blank"><img src="https://img.shields.io/github/followers/aditya2z?label=Follow&style=social" alt="Follow aditya2z on GitHub" /></a> |
 
