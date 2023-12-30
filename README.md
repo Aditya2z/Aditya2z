@@ -41,16 +41,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya2z&" alt="aditya2z" /></p>
 
 <h3 align="left">Projects:</h3>
-<p>
   - Todo App
     - Repository Link: [Todo App Repo](https://github.com/Aditya2z/To-do-App)
     - Live Demo: [Todo App Live Demo](https://aditya2z.github.io/To-do-App/)
-</p>
-<p>
   - Memory Game
     - Repository Link: [Memory Game Repo](https://github.com/Aditya2z/Memory-Game)
     - Live Demo: [Memory Game Live Demo](https://aditya2z.github.io/Memory-Game/)
-</p>
 
 <h3 align="left">Fun Facts:</h3>
 <p align="left">
