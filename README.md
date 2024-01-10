@@ -50,7 +50,7 @@
   - Intuitive shopping cart with quantity control.
   - Fully responsive design for optimal user experience.
 - **Tech Stack:** React, HTML, CSS (frontend), ExpressJS (backend), MongoDB (database).
-- **Links:** [Demo](#) | [GitHub Repository](#)
+- **Links:** [Demo](https://elaborate-liger-001a84.netlify.app/) | [GitHub Repository](https://github.com/Aditya2z/Shopify)
 
 ### 2. Conduit Blog App
 - **Description:** A lightweight yet feature-rich blogging platform designed for user-friendly content management.
