@@ -61,7 +61,7 @@
   - Customized feed based on followed authors.
   - Pagination for enhanced navigation.
 - **Tech Stack:** React, HTML, CSS (frontend), ExpressJS (backend), MongoDB (database).
-- **Links:** [Demo](#) | [GitHub Repository](#)
+- **Links:** [Demo](https://aquamarine-chaja-916635.netlify.app/) | [GitHub Repository](https://github.com/Aditya2z/blog-app)
 
 ### 3. Todo App (VanillaJS)
 - **Description:** A simple and efficient to-do list application built using Vanilla JavaScript.
