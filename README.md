@@ -40,13 +40,41 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya2z&" alt="aditya2z" /></p>
 
-<h3 align="left">Projects:</h3>
-  - Todo App
-    - Repository Link: [Todo App Repo](https://github.com/Aditya2z/To-do-App)
-    - Live Demo: [Todo App Live Demo](https://aditya2z.github.io/To-do-App/)
-  - Memory Game
-    - Repository Link: [Memory Game Repo](https://github.com/Aditya2z/Memory-Game)
-    - Live Demo: [Memory Game Live Demo](https://aditya2z.github.io/Memory-Game/)
+<h3>Featured Projects</h3>
+
+### 1. Shopify E-Commerce App
+- **Description:** A sleek and user-friendly e-commerce application enabling seamless shopping experiences.
+- **Features:**
+  - Sign-up and Sign-in functionality.
+  - Product liking feature for user preferences.
+  - Intuitive shopping cart with quantity control.
+  - Fully responsive design for optimal user experience.
+- **Tech Stack:** React, HTML, CSS (frontend), ExpressJS (backend), MongoDB (database).
+- **Links:** [Demo](#) | [GitHub Repository](#)
+
+### 2. Conduit Blog App
+- **Description:** A lightweight yet feature-rich blogging platform designed for user-friendly content management.
+- **Features:**
+  - Secure authentication with sign-in and sign-up features.
+  - CRUD operations for articles with tag-based filtering.
+  - Article liking system for user engagement.
+  - Customized feed based on followed authors.
+  - Pagination for enhanced navigation.
+- **Tech Stack:** React, HTML, CSS (frontend), ExpressJS (backend), MongoDB (database).
+- **Links:** [Demo](#) | [GitHub Repository](#)
+
+### 3. Todo App (VanillaJS)
+- **Description:** A simple and efficient to-do list application built using Vanilla JavaScript.
+- **Links:**
+  - [GitHub Repository](https://github.com/Aditya2z/To-do-App)
+  - [Live Demo](https://aditya2z.github.io/To-do-App/)
+
+### 4. Memory Game (VanillaJS)
+- **Description:** An engaging memory game to challenge and entertain users, created with Vanilla JavaScript.
+- **Links:**
+  - [GitHub Repository](https://github.com/Aditya2z/Memory-Game)
+  - [Live Demo](https://aditya2z.github.io/Memory-Game/)
+
 
 <h3 align="left">Fun Facts:</h3>
 <p align="left">
